@@ -1,2 +1,0 @@
-# PINTOS
-operating system homework
